@@ -23,9 +23,13 @@
     text-align: center;
 
     .lg-heading {
+      font-size: 30px;
       line-height: 1;
       margin-bottom: 1rem;
     }
+  }
+  .boxes div{
+    font-size: 15px;
   }
 
   .menu-nav,
@@ -50,7 +54,7 @@
     transform: translate3d(100%, 0, 0);
 
     .portarit {
-      background: url(../img/portrait_small.jpg);
+      background: url(/dist/img/2.jpg);
       width: 150px;
       height: 150px;
     }
